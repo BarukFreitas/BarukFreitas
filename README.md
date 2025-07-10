@@ -33,7 +33,9 @@ Eu me chamo Baruk, um aficionado por tecnologia apaixonado por desenvolvimento d
 ![Cypress](https://img.shields.io/badge/cypress-%232EAE18.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest_Assured-000000?style=for-the-badge&logo=mocha&logoColor=white) ### Ferramentas e Outras Skills:
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-000000?style=for-the-badge&logo=mocha&logoColor=white)
+
+### Ferramentas e Outras Skills:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
