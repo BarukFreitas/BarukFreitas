@@ -3,9 +3,11 @@
 Eu me chamo Baruk, um aficionado por tecnologia apaixonado por desenvolvimento de software e qualidade de código. Atualmente, sou estudante de Sistemas de Informação na UFRPE e Desenvolvedor/QA no programa Vem Ser DBC.
 
 💻 Experiência Profissional: Tenho mais de 1 ano de experiência como FullStack e 6 meses na área de QA, estou focado em expandir minhas habilidades na garantia de qualidade e na construção de softwares robustos.
+
 📚 Habilidades: Estou sempre aprendendo novas linguagens e frameworks para me tornar um profissional mais completo. Atualmente focado em:
     QA: Automação de testes com Cypress, Selenium, Postman e integração com CI/CD.
     Desenvolvimento: JavaScript, TypeScript, Java e frameworks como React e Spring Boot.
+    
 🎯 Objetivo: Me destacar como Engenheiro de Qualidade, podendo atuar em todas as etapas na contrução de softwares de qualidade.
     
 ## 🛠️ Tecnologias e Ferramentas
